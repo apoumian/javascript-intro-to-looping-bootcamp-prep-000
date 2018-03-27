@@ -12,7 +12,7 @@ function forLoop(array){
 function whileLoop(countdown) {
   while(countdown > 0) {
     console.log(--countdown);
-  }
+    }
     if (countdown === 0) {
       return `done`;
   }
