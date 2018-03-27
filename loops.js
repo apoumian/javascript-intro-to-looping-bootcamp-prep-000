@@ -17,3 +17,9 @@ function whileLoop(countdown) {
       return `done`;
   }
 }
+
+function pregunton(numMagic) {
+  do {
+    numMagic = Number(prompt("Cual es el número mágico??));
+  } while (numMagic === 48);
+}
