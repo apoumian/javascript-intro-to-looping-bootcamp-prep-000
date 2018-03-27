@@ -18,3 +18,4 @@ function whileLoop(countdown) {
   }
 }
 
+function doWhileLoop(array) {
