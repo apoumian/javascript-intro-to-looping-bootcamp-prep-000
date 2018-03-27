@@ -19,7 +19,7 @@ function whileLoop(countdown) {
 }
 
 function maybeTrue() {
-  return Math.random() >= 0.5
+  return Math.random() >= 0.5;
 }
 
 function doWhileLoop(array) {
