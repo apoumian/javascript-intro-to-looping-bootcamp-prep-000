@@ -20,6 +20,6 @@ function whileLoop(countdown) {
 
 function pregunton(numMagic) {
   do {
-    numMagic = Number(prompt("Cual es el número mágico??));
-  } while (numMagic === 48);
+    numMagic = Number(prompt("Cual es el número mágico??"));
+  } while (numMagic !== 48);
 }
